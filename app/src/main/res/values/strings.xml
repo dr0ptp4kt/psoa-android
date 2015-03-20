@@ -2,4 +2,6 @@
     <string name="app_name">Park Supply</string>
     <string name="back">&lt;</string>
     <string name="forward">&gt;</string>
+    <string name="conn">Connection problem. Please check your internet connection and try again.</string>
+    <string name="retry">Retry</string>
 </resources>
